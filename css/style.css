@@ -1,0 +1,30 @@
+.top_section    {
+                    margin-top: 4em;
+}
+
+.text-underline-blue    {
+                            text-decoration: underline;
+                            color: blue;
+}
+
+.login_link {
+                text-decoration: none;
+                color: blue;
+}
+
+
+.second-row {
+                margin: 3em 0em 3em;
+}
+
+.featuredImage  {
+                    height: 10em;
+                    margin: 3em 0 3em;
+                    border-radius: 3px;
+}
+
+.third_section  {
+                    margin-top: 2em;
+                    height: 35em;
+                    justify-content: center;
+}
